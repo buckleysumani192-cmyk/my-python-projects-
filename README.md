@@ -30,3 +30,9 @@ Helps farmers in villages save water and grow better crops. Sandy soil needs mor
 Built with Python on Android (Pydroid 3)
 Student: Buckley Sumani
 Location: Port Moresby, PNG
+### 3. tracker.py - Trade Store Stock Tracker
+Helps small trade stores in PNG track stock, sales value and profit.
+- Shop owner enters buy price and sell price
+- Calculates profit per product
+- Saves daily report to store_report.txt
+- Perfect for Gordons, Boroko, 6-mile shops
